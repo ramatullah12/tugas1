@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Yuanp2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tugas1"
+	}
+}

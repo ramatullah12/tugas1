@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../Yuanp2"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"": true
+		},
+		"search.useGlobalIgnoreFiles": true,
+		"search.useParentIgnoreFiles": true,
+		"liveServer.settings.multiRootWorkspaceName": "tugas1"
+	}
+}
